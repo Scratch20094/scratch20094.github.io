@@ -1,0 +1,23 @@
+body {
+  background-color: #fff;
+}
+
+#MainTitle {
+  text-align: center;
+  font-size: 22;
+  background-color: #3F00FF;
+}
+
+.Para {
+  width: 70%;
+}
+
+.Heading {
+  font: bold;
+}
+
+.Copyright {
+  font-size: 12;
+  text-align: center;
+  background-color: #252525;
+  height: 50pxs;
